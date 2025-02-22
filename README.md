@@ -1,6 +1,6 @@
-# **Welcome, my name is Han!**
-
-
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2800&pause=2000&color=0A2647&left=true&vCenter=true&width=940&lines=Welcome%2C+my+name+is+Han!" alt="Typing SVG" />
+</div>
 
 CS @ USF | Passionate About Machine learning | Full-Stack Developer
 
