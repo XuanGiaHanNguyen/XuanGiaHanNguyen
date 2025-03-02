@@ -10,7 +10,7 @@ Machine Learning Enthusiast | Full-Stack Developer
 
 ## 💼 About Me
 
-I'm a Computer Science student at the University of San Francisco with a strong passion for machine learning and full-stack development. I enjoy building innovative solutions that combine elegant design with robust functionality.
+I'm a Computer Science student at the University of South Florida with a strong passion for machine learning and full-stack development. I enjoy building innovative solutions that combine elegant design with robust functionality.
 
 ## 🛠️ Tech Stack
 
@@ -56,8 +56,4 @@ I'm a Computer Science student at the University of San Francisco with a strong 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanGiaHanNguyen&show_icons=true&hide=&count_private=true&title_color=0A2647&text_color=000000&icon_color=0A66C2&bg_color=ffffff&hide_border=true&show_icons=true)
 
