@@ -2,17 +2,17 @@
 Computer Science Student @ University of South Florida | 
 Machine Learning Enthusiast | Full-Stack Developer
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logo=safari&logoColor=white)](https://xuangiahannguyen.github.io/PortfolioWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuangiahannguyen/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/XuanGiaHanNguyen)
 
-## 💼 About Me
+## About Me
 
 I'm a Computer Science student at the University of South Florida with a strong passion for machine learning and full-stack development. I enjoy building innovative solutions that combine elegant design with robust functionality.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
