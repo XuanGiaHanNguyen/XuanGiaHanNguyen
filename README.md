@@ -1,5 +1,5 @@
 # Whalecome, my name is Han!
-Computer Science Student @ University of South Florida | 
+CS @ USF | 
 Machine Learning Enthusiast | Full-Stack Developer
 
 ## Connect With Me
