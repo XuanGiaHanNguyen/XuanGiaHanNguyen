@@ -45,60 +45,57 @@ I'm a Computer Science student at the University of South Florida with a strong 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Neural Style Transfer</h3>
-      <br />
-      <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer" target="_blank">
+      <h3 align="center">Toast Tutor</h3>
+      <a href="https://github.com/ttrang87/toast-tutor" target="_blank">
         <img width="645" alt="Image" src="https://github.com/user-attachments/assets/8683cf88-4dc4-41a0-a2ec-c727030e1ac2" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer" target="_blank">
+        <a href="https://github.com/ttrang87/toast-tutor" target="_blank">
           <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://neural-style-demo.herokuapp.com" target="_blank">
+        <a href="https://github.com/ttrang87/toast-tutor" target="_blank">
           <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=heroku"/>
         </a>
       </p>
       <p align="center">
-        A web application that uses deep learning to apply the style of one image to the content of another. Built with <strong>PyTorch</strong>, <strong>Flask</strong>, and <strong>React</strong>.
+        Developed a web platform to connect students with tutors based on skill level, time availability, and other preferences. Built with <strong>Django</strong> and <strong>ReactJS</strong>.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Dev Connect</h3>
-      <br />
-      <a href="https://github.com/XuanGiaHanNguyen/dev-connect" target="_blank">
+      <h3 align="center">Castle Hassle</h3>
+      <a href="https://github.com/XuanGiaHanNguyen/CastleHassle" target="_blank">
         <img width="306" alt="Image" src="https://github.com/user-attachments/assets/b7972be4-6c4f-41cb-9a31-375f2779264c" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/XuanGiaHanNguyen/dev-connect" target="_blank">
+        <a href="https://github.com/XuanGiaHanNguyen/CastleHassle" target="_blank">
           <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github"/>
         </a>
-        <a href="https://dev-connect.netlify.app" target="_blank">
+        <a href="https://github.com/XuanGiaHanNguyen/CastleHassle" target="_blank">
           <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=netlify"/>
         </a>
       </p>
       <p align="center">
-        A platform connecting developers to collaborate on projects. Features real-time chat, project management, and skill matching. Built with <strong>MERN Stack</strong>.
+        Developed an interactive escape-the-castle game using Python and Pygame for GitHub Game Off 2024. Built with <strong>PyGame</strong>.
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Smart Budget</h3>
-      <br />
-      <a href="https://github.com/XuanGiaHanNguyen/smart-budget" target="_blank">
-        <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/smart-budget-preview.jpg" width="100%" alt="Smart Budget App"/>
+      <h3 align="center">MeowMentum</h3>
+      <a href="https://github.com/XuanGiaHanNguyen/MeowMentum" target="_blank">
+        <img width="645" alt="Image" src="https://github.com/user-attachments/assets/17d75435-5044-4f1c-81a5-61fada438c63" />
       </a>
       <br />
       <p align="center">
-        <a href="https://github.com/XuanGiaHanNguyen/smart-budget" target="_blank">
+        <a href="https://github.com/XuanGiaHanNguyen/MeowMentum" target="_blank">
           <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github"/>
         </a>
-        <a href="https://smart-budget-app.web.app" target="_blank">
+        <a href="https://github.com/XuanGiaHanNguyen/MeowMentum" target="_blank">
           <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=firebase"/>
         </a>
       </p>
       <p align="center">
-        A personal finance application that uses ML to predict spending patterns and offer insights for better budgeting. Built with <strong>Vue.js</strong>, <strong>Firebase</strong>, and <strong>TensorFlow.js</strong>.
+        A personal productivity-tracking application. Built with <strong>Vue.js</strong>, <strong>Firebase</strong>, and <strong>NodeJS</strong>.
       </p>
     </td>
   </tr>
