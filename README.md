@@ -83,7 +83,7 @@ I'm a Computer Science student at the University of South Florida with a strong 
     <td width="33%" valign="top">
       <h3 align="center">MeowMentum</h3>
       <a href="https://github.com/XuanGiaHanNguyen/MeowMentum" target="_blank">
-        <img width="645" alt="Image" src="https://github.com/user-attachments/assets/17d75435-5044-4f1c-81a5-61fada438c63" />
+        <img width="631" alt="Image" src="https://github.com/user-attachments/assets/d6c3452b-4c24-414d-a0e3-678dba7a0e9b" />
       </a>
       <br />
       <p align="center">
