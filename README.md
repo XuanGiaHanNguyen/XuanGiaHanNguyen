@@ -48,7 +48,7 @@ I'm a Computer Science student at the University of South Florida with a strong 
       <h3 align="center">Neural Style Transfer</h3>
       <br />
       <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer" target="_blank">
-        <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/neural-style-preview.jpg" width="100%" alt="Neural Style Transfer App"/>
+        <img width="645" alt="Image" src="https://github.com/user-attachments/assets/8683cf88-4dc4-41a0-a2ec-c727030e1ac2" />
       </a>
       <br />
       <p align="center">
