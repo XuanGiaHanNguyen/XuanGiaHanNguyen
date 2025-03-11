@@ -67,7 +67,7 @@ I'm a Computer Science student at the University of South Florida with a strong 
       <h3 align="center">Dev Connect</h3>
       <br />
       <a href="https://github.com/XuanGiaHanNguyen/dev-connect" target="_blank">
-        <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/dev-connect-preview.jpg" width="100%" alt="Dev Connect Platform"/>
+        <img width="306" alt="Image" src="https://github.com/user-attachments/assets/b7972be4-6c4f-41cb-9a31-375f2779264c" />
       </a>
       <br />
       <p align="center">
