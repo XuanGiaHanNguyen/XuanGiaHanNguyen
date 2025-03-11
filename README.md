@@ -42,74 +42,64 @@ I'm a Computer Science student at the University of South Florida with a strong 
 
 ## Recent Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img width="2000" height="0">
-        <h3>Neural Style Transfer</h3>
-        <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer">
-          <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/neural-style-preview.jpg" width="100%" alt="Neural Style Transfer App">
-        </a>
-        <br>
-        <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer">
-          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Neural Style Transfer</h3>
+      <br />
+      <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer" target="_blank">
+        <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/neural-style-preview.jpg" width="100%" alt="Neural Style Transfer App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer" target="_blank">
+          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github"/>
         </a>  
-        <a href="https://neural-style-demo.herokuapp.com">
-          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=heroku">
+        <a href="https://neural-style-demo.herokuapp.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=heroku"/>
         </a>
-        <br>
-        <p>A web application that uses deep learning to apply the style of one image to the content of another.</p>
-        <p><strong>PyTorch</strong> • <strong>Flask</strong> • <strong>React</strong></p>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img width="2000" height="0">
-        <h3>Dev Connect</h3>
-        <a href="https://github.com/XuanGiaHanNguyen/dev-connect">
-          <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/dev-connect-preview.jpg" width="100%" alt="Dev Connect Platform">
+      </p>
+      <p align="center">
+        A web application that uses deep learning to apply the style of one image to the content of another. Built with <strong>PyTorch</strong>, <strong>Flask</strong>, and <strong>React</strong>.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Dev Connect</h3>
+      <br />
+      <a href="https://github.com/XuanGiaHanNguyen/dev-connect" target="_blank">
+        <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/dev-connect-preview.jpg" width="100%" alt="Dev Connect Platform"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/XuanGiaHanNguyen/dev-connect" target="_blank">
+          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github"/>
         </a>
-        <br>
-        <a href="https://github.com/XuanGiaHanNguyen/dev-connect">
-          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
+        <a href="https://dev-connect.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=netlify"/>
         </a>
-        <a href="https://dev-connect.netlify.app">
-          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=netlify">
+      </p>
+      <p align="center">
+        A platform connecting developers to collaborate on projects. Features real-time chat, project management, and skill matching. Built with <strong>MERN Stack</strong>.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Smart Budget</h3>
+      <br />
+      <a href="https://github.com/XuanGiaHanNguyen/smart-budget" target="_blank">
+        <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/smart-budget-preview.jpg" width="100%" alt="Smart Budget App"/>
+      </a>
+      <br />
+      <p align="center">
+        <a href="https://github.com/XuanGiaHanNguyen/smart-budget" target="_blank">
+          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github"/>
         </a>
-        <br>
-        <p>A platform connecting developers to collaborate on projects with real-time features.</p>
-        <p><strong>MongoDB</strong> • <strong>Express</strong> • <strong>React</strong> • <strong>Node.js</strong></p>
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img width="2000" height="0">
-        <h3>Smart Budget</h3>
-        <a href="https://github.com/XuanGiaHanNguyen/smart-budget">
-          <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/smart-budget-preview.jpg" width="100%" alt="Smart Budget App">
+        <a href="https://smart-budget-app.web.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=firebase"/>
         </a>
-        <br>
-        <a href="https://github.com/XuanGiaHanNguyen/smart-budget">
-          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
-        </a>
-        <a href="https://smart-budget-app.web.app">
-          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=firebase">
-        </a>
-        <br>
-        <p>A personal finance app with ML-powered spending predictions and insights.</p>
-        <p><strong>Vue.js</strong> • <strong>Firebase</strong> • <strong>TensorFlow.js</strong></p>
-      </td>
-    </tr>
-  </table>
-</div>
+      </p>
+      <p align="center">
+        A personal finance application that uses ML to predict spending patterns and offer insights for better budgeting. Built with <strong>Vue.js</strong>, <strong>Firebase</strong>, and <strong>TensorFlow.js</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
