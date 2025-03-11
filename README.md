@@ -40,3 +40,76 @@ I'm a Computer Science student at the University of South Florida with a strong 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 </p>
 
+## Recent Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img width="2000" height="0">
+        <h3>Neural Style Transfer</h3>
+        <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer">
+          <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/neural-style-preview.jpg" width="100%" alt="Neural Style Transfer App">
+        </a>
+        <br>
+        <a href="https://github.com/XuanGiaHanNguyen/neural-style-transfer">
+          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
+        </a>  
+        <a href="https://neural-style-demo.herokuapp.com">
+          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=heroku">
+        </a>
+        <br>
+        <p>A web application that uses deep learning to apply the style of one image to the content of another.</p>
+        <p><strong>PyTorch</strong> • <strong>Flask</strong> • <strong>React</strong></p>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img width="2000" height="0">
+        <h3>Dev Connect</h3>
+        <a href="https://github.com/XuanGiaHanNguyen/dev-connect">
+          <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/dev-connect-preview.jpg" width="100%" alt="Dev Connect Platform">
+        </a>
+        <br>
+        <a href="https://github.com/XuanGiaHanNguyen/dev-connect">
+          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
+        </a>
+        <a href="https://dev-connect.netlify.app">
+          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=netlify">
+        </a>
+        <br>
+        <p>A platform connecting developers to collaborate on projects with real-time features.</p>
+        <p><strong>MongoDB</strong> • <strong>Express</strong> • <strong>React</strong> • <strong>Node.js</strong></p>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img width="2000" height="0">
+        <h3>Smart Budget</h3>
+        <a href="https://github.com/XuanGiaHanNguyen/smart-budget">
+          <img src="https://raw.githubusercontent.com/yourusername/repo-assets/main/smart-budget-preview.jpg" width="100%" alt="Smart Budget App">
+        </a>
+        <br>
+        <a href="https://github.com/XuanGiaHanNguyen/smart-budget">
+          <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github">
+        </a>
+        <a href="https://smart-budget-app.web.app">
+          <img src="https://img.shields.io/badge/Live-green?style=for-the-badge&logo=firebase">
+        </a>
+        <br>
+        <p>A personal finance app with ML-powered spending predictions and insights.</p>
+        <p><strong>Vue.js</strong> • <strong>Firebase</strong> • <strong>TensorFlow.js</strong></p>
+      </td>
+    </tr>
+  </table>
+</div>
