@@ -1,6 +1,5 @@
 # Whalecome, my name is Han!
-CS @ USF | 
-Machine Learning Enthusiast | Full-Stack Developer
+CS @ USF | Machine Learning Enthusiast | Full-Stack Developer
 
 ## About Me
 
