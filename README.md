@@ -1,11 +1,6 @@
 # Whalecome, my name is Han!
 CS @ USF | Machine Learning Enthusiast | Full-Stack Developer
 
-## About Me
-
-I'm a Computer Science student at the University of South Florida with a strong passion for machine learning and full-stack development. I enjoy building innovative solutions that combine elegant design with robust functionality.
-
-
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logoColor=white)](https://xuangiahannguyen.github.io/PortfolioWebsite/)
