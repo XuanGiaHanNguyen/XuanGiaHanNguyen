@@ -3,7 +3,7 @@ CS @ USF | Machine Learning Enthusiast | Full-Stack Developer
 
 ## Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logoColor=white)](https://xuangiahannguyen.github.io/PortfolioWebsite/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logoColor=white)](https://xuangiahannguyen.github.io/PortfolioPage/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/xuangiahannguyen/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logoColor=white)](https://dribbble.com/XuanGiaHanNguyen)
 
