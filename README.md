@@ -5,16 +5,15 @@
 🎓 **CS @ University of South Florida**  
 🤖 **Machine Learning Enthusiast**  
 🧑‍💻 **Full-Stack Developer**  
-🌊 **Ocean Lover** (clearly!)
+🌊 **Whale Lover** (clearly!)
 
 ## 👨‍💻 About Me
 
 I'm a Computer Science student with a passion for developing accessible, impactful applications. My focus areas include:
 
-- Web and mobile application development
+- Web application development
 - Machine learning implementations
 - User experience design and optimization
-- Cross-platform solutions
 
 When I'm not coding, you might find me exploring new technologies, contributing to open-source projects, or diving into design challenges.
 
