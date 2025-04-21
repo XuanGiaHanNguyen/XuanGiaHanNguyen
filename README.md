@@ -72,7 +72,7 @@ When I'm not coding, you might find me exploring new technologies, contributing 
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🌊 OceanConnect</h3>
+      <h3 align="center">📨 DashConnect</h3>
       <div align="center">
         <p>
           <a href="https://github.com/username/ocean-connect" target="_blank">
@@ -82,8 +82,8 @@ When I'm not coding, you might find me exploring new technologies, contributing 
             <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Tech Stack:</strong> Vue.js, Django, PostgreSQL, Docker</p>
-        <p>A platform connecting marine conservation enthusiasts with researchers and organizations to contribute to ocean preservation projects worldwide.</p>
+        <p><strong>Tech Stack:</strong> ReactJS, MongoDB, ExpressJS, NodeJS</p>
+       <p>A global social media platform designed to connect users from all corners of the world, enabling them to share ideas, engage in conversations.</p>
       </div>
     </td>
   </tr>
