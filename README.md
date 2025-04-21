@@ -57,7 +57,7 @@ When I'm not coding, you might find me exploring new technologies, contributing 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 AI Study Companion</h3>
+      <h3 align="center">🧬 SkinIntel</h3>
       <div align="center">
         <p>
           <a href="https://github.com/username/ai-study-companion" target="_blank">
@@ -67,8 +67,8 @@ When I'm not coding, you might find me exploring new technologies, contributing 
             <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Tech Stack:</strong> React, TensorFlow.js, Node.js, MongoDB</p>
-        <p>An intelligent study assistant that uses ML to personalize learning paths and optimize study sessions based on individual learning patterns.</p>
+        <p><strong>Tech Stack:</strong> React, TensorFlow.js, Node.js, MongoDB, Python</p>
+        <p>An intelligent early-stage skin cancer detection application which uses the ABCDE method to increase accuracy.</p>
       </div>
     </td>
     <td width="50%">
