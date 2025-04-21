@@ -104,7 +104,7 @@ When I'm not coding, you might find me exploring new technologies, contributing 
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🔐 SecureShare</h3>
+      <h3 align="center">💻 GreenCart</h3>
       <div align="center">
         <p>
           <a href="https://github.com/username/secureshare" target="_blank">
@@ -114,8 +114,8 @@ When I'm not coding, you might find me exploring new technologies, contributing 
             <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Tech Stack:</strong> React Native, Express.js, Supabase, Firebase</p>
-        <p>A cross-platform application enabling secure file sharing with end-to-end encryption, expiring links, and granular access controls.</p>
+        <p><strong>Tech Stack:</strong> React, Express.js, JavaScript, NextJS</p>
+        <p>A web extension + online platform to track the most reasonable price and an marketplace for users to exchange second-hand items.</p>
       </div>
     </td>
   </tr>
