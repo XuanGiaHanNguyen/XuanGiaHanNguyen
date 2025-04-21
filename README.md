@@ -53,11 +53,6 @@ When I'm not coding, you might find me exploring new technologies, contributing 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Han's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XuanGiaHanNguyen&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanGiaHanNguyen&layout=compact&theme=tokyonight)
-
 ## 🌟 Featured Projects
 
 <table>
@@ -104,26 +99,3 @@ When I'm not coding, you might find me exploring new technologies, contributing 
     </td>
   </tr>
 </table>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://xuangiahannguyen.github.io/PortfolioPage/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A2647?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/xuangiahannguyen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://dribbble.com/XuanGiaHanNguyen" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-<p align="center">💙 If you like my work, consider <a href="https://github.com/sponsors/YourUsername">sponsoring me</a> or starring my repositories!</p>
-
-
