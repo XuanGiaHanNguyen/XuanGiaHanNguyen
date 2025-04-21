@@ -89,7 +89,7 @@ When I'm not coding, you might find me exploring new technologies, contributing 
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 DataVizPro</h3>
+      <h3 align="center">🏫 ToastTutor</h3>
       <div align="center">
         <p>
           <a href="https://github.com/username/datavizpro" target="_blank">
@@ -99,8 +99,8 @@ When I'm not coding, you might find me exploring new technologies, contributing 
             <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Tech Stack:</strong> TypeScript, D3.js, Angular, Node.js, AWS</p>
-        <p>An interactive data visualization tool that transforms complex datasets into insightful, accessible, and customizable visual representations.</p>
+        <p><strong>Tech Stack:</strong> ReactJS, TailwindCSS, Django, Stripe, Redis, AWS</p>
+        <p>An platform to connect students with tutors based on educational background, timing and other preferences.</p>
       </div>
     </td>
     <td width="50%">
