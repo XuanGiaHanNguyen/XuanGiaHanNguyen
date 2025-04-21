@@ -57,43 +57,65 @@ When I'm not coding, you might find me exploring new technologies, contributing 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Project One</h3>
-      <div align="center">  
-        <a href="https://github.com/username/repo" target="_blank">
-          <img src="https://dummyimage.com/600x400/000/fff&text=Project+One" width="100%" alt="Project"/>
-        </a>
-        <br>
-        <br>
+      <h3 align="center">🤖 AI Study Companion</h3>
+      <div align="center">
         <p>
-          <a href="https://github.com/username/repo" target="_blank">
+          <a href="https://github.com/username/ai-study-companion" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
-          <a href="https://website.com" target="_blank">
-            <img src="https://img.shields.io/badge/Website-5C2D91?style=for-the-badge&logo=website&logoColor=white"/>
+          <a href="https://ai-study-companion.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-        <p>Brief description of your project and what problems it solves.</p>
+        <p><strong>Tech Stack:</strong> React, TensorFlow.js, Node.js, MongoDB</p>
+        <p>An intelligent study assistant that uses ML to personalize learning paths and optimize study sessions based on individual learning patterns.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Project Two</h3>
-      <div align="center">  
-        <a href="https://github.com/username/repo" target="_blank">
-          <img src="https://dummyimage.com/600x400/000/fff&text=Project+Two" width="100%" alt="Project"/>
-        </a>
-        <br>
-        <br>
+      <h3 align="center">🌊 OceanConnect</h3>
+      <div align="center">
         <p>
-          <a href="https://github.com/username/repo" target="_blank">
+          <a href="https://github.com/username/ocean-connect" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>  
-          <a href="https://website.com" target="_blank">
-            <img src="https://img.shields.io/badge/Website-5C2D91?style=for-the-badge&logo=website&logoColor=white"/>
+          <a href="https://ocean-connect.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Tech Stack:</strong> Python, Django, PostgreSQL</p>
-        <p>Brief description of your project and what problems it solves.</p>
+        <p><strong>Tech Stack:</strong> Vue.js, Django, PostgreSQL, Docker</p>
+        <p>A platform connecting marine conservation enthusiasts with researchers and organizations to contribute to ocean preservation projects worldwide.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📊 DataVizPro</h3>
+      <div align="center">
+        <p>
+          <a href="https://github.com/username/datavizpro" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://datavizpro.io" target="_blank">
+            <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Tech Stack:</strong> TypeScript, D3.js, Angular, Node.js, AWS</p>
+        <p>An interactive data visualization tool that transforms complex datasets into insightful, accessible, and customizable visual representations.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔐 SecureShare</h3>
+      <div align="center">
+        <p>
+          <a href="https://github.com/username/secureshare" target="_blank">
+            <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://secureshare.dev" target="_blank">
+            <img src="https://img.shields.io/badge/Live-5C2D91?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Tech Stack:</strong> React Native, Express.js, Supabase, Firebase</p>
+        <p>A cross-platform application enabling secure file sharing with end-to-end encryption, expiring links, and granular access controls.</p>
       </div>
     </td>
   </tr>
