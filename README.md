@@ -1,6 +1,6 @@
 # 🐋 Whalecome, I'm Han!
 
-> Full-stack developer passionate about building technologies that connect people globally.
+> Full-stack developer | Whale-lover
 
 🎓 **CS @ University of South Florida**  
 🤖 **Machine Learning Enthusiast**  
