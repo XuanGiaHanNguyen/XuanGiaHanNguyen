@@ -5,7 +5,6 @@
 🎓 **CS @ University of South Florida**  
 🤖 **Machine Learning Enthusiast**  
 🧑‍💻 **Full-Stack Developer**  
-🌊 **Whale Lover** (clearly!)
 
 ## 👨‍💻 About Me
 
