@@ -1,6 +1,6 @@
 # 🐋 Whalecome, I'm Han!
 
-> Full-stack developer | Whale-lover
+> Full-stack developer
 
 🎓 **CS @ University of South Florida**  
 🤖 **Machine Learning Enthusiast**  
