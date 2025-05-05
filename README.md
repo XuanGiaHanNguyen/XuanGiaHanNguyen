@@ -1,6 +1,6 @@
 # 🐋 Whalecome, I'm Han!
 
-> Full-stack developer
+> CS @ USF | AI/ML Enthusiast | Full-Stack Developer
 
 🎓 **CS @ University of South Florida**  
 🤖 **Machine Learning Enthusiast**  
