@@ -1,6 +1,6 @@
 # 🐋 Whalecome, I'm Han!
 
-> CS @ USF | AI/ML Enthusiast | Full-Stack Developer
+> Bridging code and creativity with a love for AI, clean design, and whales.
 
 🎓 **CS @ University of South Florida**  
 🤖 **Machine Learning Enthusiast**  
