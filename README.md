@@ -2,9 +2,10 @@
 
 > Bridging code and creativity with a love for AI, clean design, and whales.
 
-🎓 **CS @ University of South Florida**  
-🤖 **Machine Learning Enthusiast**  
-🧑‍💻 **Full-Stack Developer**  
+🎓 **CS @ USF**  
+🧠 **Tech Chair @ BCI USF**  
+📅 **Committee Member @ USF Expo**  
+🥈 **2× Hackathon Loser**
 
 ## 👨‍💻 About Me
 
