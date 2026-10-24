@@ -1,7 +1,6 @@
 <h1 align="left">Hey there, I'm Han(nah) <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" height="60"/></h1>
 
-<p align="left">CS student (Math minor) at the University of South Florida, building software where healthcare meets AI.</p>
-
+<p align="left">Comp Sci + Math Student at the University of South Florida, building software that brings good to people. I've worked on ML tools at a cancer center, a nutrition platform with a hospital, and fullstack for healthcare and edu-tech startups. Lately I've been into real-time systems and making apps that hold up at scale - still exploring the world around me. Outside of code, I &lt;3 cats.</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XuanGiaHanNguyen/XuanGiaHanNguyen/output/github-snake-dark.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/XuanGiaHanNguyen/XuanGiaHanNguyen/output/github-snake.svg" />
