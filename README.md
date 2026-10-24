@@ -2,6 +2,11 @@
 
 <p align="left">CS student (Math minor) at the University of South Florida, building software where healthcare meets AI.</p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XuanGiaHanNguyen/XuanGiaHanNguyen/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/XuanGiaHanNguyen/XuanGiaHanNguyen/output/github-snake.svg" />
+</picture>
+
 ### Experience
 - **Moffitt Cancer Center** · Student SWE, Machine Learning · Aug 2025 – Present
 - **ERA Lab** · Student SWE, Tampa General Hospital · Feb 2026 – Present
